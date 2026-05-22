@@ -17,11 +17,12 @@ const projects = [
     github: 'https://github.com/sai1432-ss/SrkrHackathon',
   },
   {
-    title: 'Weather App',
-    description: 'A sleek weather application providing real-time forecasts and historical data using OpenWeather API. Features automatic geolocation and dark mode.',
-    tech: ['JavaScript', 'HTML5', 'CSS3', 'REST APIs'],
-    github: 'https://github.com',
-    live: 'https://example.com'
+    title: 'Image classifier',
+    description: 'This project implements an end-to-end image classification pipeline using transfer learning with a pre-trained ResNet50 model. It covers the complete ML workflow from dataset preparation to production deployment.',
+    tech: ['ResNet50 ',
+	'PyTorch','REST API','Python'],
+    github: 'https://github.com/swaritha/image_clasf',
+   
   }
 ];
 
